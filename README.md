@@ -5,10 +5,10 @@
 </div>
 <br>
   <p>
-    Sou desenvolvedor front-end, e amante de tecnologias.    
+    Amante de tecnologias.    
   </p>
   <p>
-      Minhas competências estão voltadas para o desenvolvimento de aplicações web front-end.
+      Sempre estudando, esse é o foco.
   </p>
   <div>
     <h2>Minhas Hard Skills</h2>
