@@ -52,7 +52,7 @@ Meu foco principal hoje é a **criação de SaaS (Software as a Service) e aplic
 
 Seja para conversar sobre um novo projeto SaaS, integração de IA ou apenas trocar uma ideia sobre tecnologia, sinta-se à vontade para me chamar!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesiel-silva/?skipRedirect=true)
 [![E-mail](https://img.shields.io/badge/E--mail-⚠️-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
