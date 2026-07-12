@@ -1,7 +1,7 @@
 # Olá, eu sou o Jesiel Silva! 👋
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd07871?q=80&w=600&auto=format&fit=crop" alt="Ilustração de Desenvolvimento" width="100%" style="border-radius: 10px;"/>
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Dev%20%26%20AI%20Engineer&fontSize=40&animation=fadeIn" alt="Banner Dev" width="100%"/>
 </p>
 
 ## 🚀 Sobre Mim
