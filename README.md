@@ -51,9 +51,19 @@ Meu foco principal hoje é a **criação de SaaS (Software as a Service) e aplic
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesiel-silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesiel-silva&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="180px"/>
+  <!-- Gráfico de Linhas de Código e Commits Atualizado -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jesiel-silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Jesiel" height="180px"/>
+  
+  <!-- Gráfico de Idiomas/Linguagens Mais Usadas Atualizado -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jesiel-silva&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="180px"/>
 </p>
+
+<p align="center">
+  <!-- Gráfico de Sequência de Dias Produtivos (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesiel-silva&theme=radical" alt="Sequência de Contribuições" />
+</p>
+
+---
 
 ---
 
