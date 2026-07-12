@@ -1,7 +1,7 @@
 # Olá, eu sou o Jesiel Silva! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Dev%20%26%20AI%20Engineer&fontSize=40&animation=fadeIn" alt="Banner Dev" width="100%"/>
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Ilustração Octocat" width="200px"/>
 </p>
 
 ## 🚀 Sobre Mim
